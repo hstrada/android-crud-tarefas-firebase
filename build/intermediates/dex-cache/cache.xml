@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_SDK\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_921df45bfcc0bc1bf5c7e4721697f399cc7e7e63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_fa1e31923cdf85066ce0fe06f445272dfb71d3c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_6df0c9a116608c6365f6489055d07601ba62f668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.0_d8fed5e42a8f7734081ff5016396f15804512098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_c0a186d6c4f340d0ee23136d424eeed9fb1f8073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.0_bb2622fc533ce338e1e428ff5aa7623d39567cdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.1_d77472defebd2a805cd3d60f39d6acdaaaeb1904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_15eddfe33d679fae01e25bde1f6593d99cc9211e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.0_42dcb036febd7bd14b0aa843ff95704c1e27e9b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.0_002d27f6482f36eeee3807a2e262a436e3962c55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_37fd7a30557918c16acd3295d0ec6c749f5f0440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.1_e737d0313fa27ecf95685ff501c3ed1263993b1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_4e9660a7583685c540fc013c7b096553b698c8af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_2d6a1884d8a3d45ffe432dc40d72a89d2c66fd4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.0_a8fab50743ed0bcbd10bcd707a25ae71c34de94e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.0_36ec0f8ba94404b46f165dab40c1a1fd5a7c133c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.0_adfbc587ed9c25cf9bd6292d3674da1abf5ccf3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.0_9aa0d935b14113927df1dd51f926c9b1f02f44b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.0_1c1f74fe592fac483b0af72912ed276af6dcfdd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.0_585dd5125fa00c70ed488209a2740ee28b1e0424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.0_2ab4553add850a68c0187a301627b18d110b15ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.0_bb9f0efbccb53ecee99d3040efad2e39d359b88b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Firebase\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_24e14e56eb748722c8a182c85240f519482a8091.jar" />
+    </item>
+
+</items>
